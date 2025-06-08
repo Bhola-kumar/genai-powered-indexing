@@ -1,0 +1,140 @@
+[
+  {
+    "part_number": "I",
+    "part_title": "SCOPE AND OVERVIEW",
+    "sections": [
+      "§ 2.01 Scope",
+      "§ 2.02 Objective and Strategy"
+    ]
+  },
+  {
+    "part_number": "II",
+    "part_title": "ESTABLISHING RESIDENCY",
+    "sections": [
+      "§ 2.03 CHECKLIST: Establishing Residency",
+      "§ 2.04 Distinguishing Between Domicile and Residence",
+      {
+        "section": "§ 2.05 Satisfying Residency Requirements",
+        "subsections": [
+          "[1] Determining the Statutory Basis for Residency",
+          "[2] Establishing Residency Based Upon Duration of Residency in Connecticut",
+          "[3] Establishing Residency Where a Party was Domiciled in Connecticut at the Time of the Marriage and",
+          "[4] Establishing Residency Based Upon the Cause for the Dissolution Arising After Either Party Moved to",
+          "[5] Entering Temporary Orders After Residency is Established in Connecticut"
+        ]
+      }
+    ]
+  },
+  {
+    "part_number": "III",
+    "part_title": "ESTABLISHING IN REM JURISDICTION",
+    "sections": [
+      "§ 2.06 CHECKLIST: Establishing In Rem Jurisdiction",
+      "§ 2.07 Establishing In Rem Jurisdiction",
+      "§ 2.08 Effectuating In Rem Jurisdiction"
+    ]
+  },
+  {
+    "part_number": "IV",
+    "part_title": "EFFECTUATING SERVICE OF PROCESS",
+    "sections": [
+      "§ 2.09 CHECKLIST: Effectuating Service of Process",
+      "§ 2.10 Serving Process to Effectuate Jurisdiction",
+      "§ 2.11 Serving Process on Residents of Connecticut",
+      "§ 2.12 Serving Process on Non-Residents of Connecticut",
+      "§ 2.13 Preparing Orders of Notice for Post Judgment Motions",
+      "§ 2.14 Serving Process in Probate Court Matters",
+      "§ 2.15 Serving Process-Who is Authorized"
+    ]
+  },
+  {
+    "part_number": "V",
+    "part_title": "ESTABLISHING IN PERSONAM JURISDICTION",
+    "sections": [
+      "§ 2.16 CHECKLIST: Establishing In Personam Jurisdiction",
+      "§ 2.17 Obtaining and the Purpose of Personal Jurisdiction",
+      "§ 2.18 Conferring Personal Jurisdiction by Filing an Appearance",
+      "§ 2.19 Asserting Long Arm Jurisdiction",
+      "§ 2.20 Contesting Personal Jurisdiction",
+      "§ 2.21 Assessing the Ability to Enter Orders with Personal Jurisdiction"
+    ]
+  },
+  {
+    "part_number": "VI",
+    "part_title": "DETERMINING THE PARTIES TO DISSOLUTION, PATERNITY AND CUSTODY",
+    "sections": [
+      "§ 2.22 CHECKLIST: Determining the Parties to Dissolution, Paternity and Custody Actions",
+      "§ 2.23 Establishing Standing",
+      "§ 2.24 Bringing a Dissolution Action by Spouses or a Paternity Action by a Parent",
+      "§ 2.25 Bringing a Dissolution Action by Native American Tribe Members",
+      "§ 2.26 Assessing the Role of Minors in Family Actions",
+      "§ 2.27 Bringing a Dissolution on Behalf of Incompetent Persons",
+      "§ 2.28 Making the Attorney General or Town Clerk a Party",
+      {
+        "section": "§ 2.29 Evaluating the Necessity of Joinder and Third Parties in Dissolution Actions",
+        "subsections": [
+          "[1] Intervening in Visitation and Custody Actions",
+          "[2] Intervening and Joinder in Financial Actions"
+        ]
+      }
+    ]
+  },
+  {
+    "part_number": "VII",
+    "part_title": "DETERMINING SUBJECT MATTER JURISDICTION",
+    "sections": [
+      "§ 2.30 CHECKLIST: Determining Subject Matter Jurisdiction",
+      "§ 2.31 Assessing Statutory Provisions for Subject Matter Jurisdiction",
+      "§ 2.32 Contesting Subject Matter Jurisdiction",
+      "§ 2.33 Asserting the Prior Pending Action Doctrine",
+      "§ 2.34 Reserving Jurisdiction by the Court"
+    ]
+  },
+  {
+    "part_number": "VIII",
+    "part_title": "DETERMINING THE PROPER VENUE",
+    "sections": [
+      "§ 2.35 CHECKLIST: Determining the Proper Venue",
+      "§ 2.36 Bringing Cases to the Proper Court",
+      "§ 2.37 Determining Remedies When a Case is Filed in the Wrong Venue"
+    ]
+  },
+  {
+    "part_number": "IX",
+    "part_title": "APPLYING THE UNIFORM CHILD CUSTODY JURISDICTION AND ENFORCEMENT",
+    "sections": [
+      "§ 2.38 CHECKLIST: Applying the Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA)",
+      "§ 2.39 Establishing Jurisdiction Under the UCCJEA",
+      "§ 2.40 Determining Home State Jurisdiction",
+      "§ 2.41 Determining Significant Connections with the State",
+      "§ 2.42 Determining Jurisdiction When the Child's Home State Has Declined to Exercise Jurisdiction",
+      "§ 2.43 Determining That No Other Court Has Jurisdiction",
+      "§ 2.44 Declining Jurisdiction Based Upon Inconvenient Forum",
+      "§ 2.45 Determining Whether There Are Simultaneous Proceedings and Resolving Which Court Should",
+      "§ 2.46 Continuing Exclusive Jurisdiction",
+      "§ 2.47 Modifying the Custody Determination of Another State",
+      "§ 2.48 Asserting Temporary Emergency Jurisdiction",
+      "§ 2.49 Providing Notice of the Proceedings",
+      "§ 2.50 Applying the UCCJEA to Native Americans"
+    ]
+  },
+  {
+    "part_number": "X",
+    "part_title": "APPLYING THE UNIFORM INTERSTATE FAMILY SUPPORT ACT",
+    "sections": [
+      "§ 2.51 CHECKLIST: Applying the Uniform Interstate Family Support Act",
+      "§ 2.52 Asserting Jurisdiction over Nonresidents",
+      "§ 2.53 Establishing Support Orders When There Are Simultaneous Proceedings in Another State",
+      "§ 2.54 Continuing Exclusive Jurisdiction"
+    ]
+  },
+  {
+    "part_number": "XI",
+    "part_title": "DOMESTICATING AND ENFORCING FOREIGN MATRIMONIAL JUDGMENTS",
+    "sections": [
+      "§ 2.55 CHECKLIST: Domesticating and Enforcing Foreign Matrimonial Judgments",
+      "§ 2.56 Domesticating a Foreign Judgment",
+      "§ 2.57 Asserting Comity for Judgments of Foreign Countries"
+    ]
+  }
+]
